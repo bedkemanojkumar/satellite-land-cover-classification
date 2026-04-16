@@ -1,0 +1,12 @@
+# Ignore data
+*.npy
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+.idea/
+
+# Ignore datasets
+EuroSAT/
